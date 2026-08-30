@@ -1,0 +1,6 @@
+{
+  "name": "PHP & Database Lab",
+  "description": "Interactive learning web application for STM21673 Web Development (Topic 4: PHP and Database Connectivity) for TVET Kolej Komuniti students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
