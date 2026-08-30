@@ -4,8 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  base: '/web-php-database/',
+  
   return {
+    base: '/web-php-database/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
